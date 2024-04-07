@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=pagination
+POSTGRES_USER=wJsvpItXZHPdniTGDXbmoqJZpYodgDXd
+POSTGRES_PASSWORD=yKwHA162xqR2FsqsoLLkJEik7uH73ZdOQEx2QLmFqAweEM8F2NyvUltbpgiei8uw
